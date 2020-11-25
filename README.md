@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DevUnderflow/devunderflow.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# DevUndeflow
+###### We are a group of developers who loves to code 👨‍💻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+want to contribue ? Follow these guidelines [contribution guidelines](#contribution-guidelines "Contribution Guidelines")
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contribution Guidelines
+1. Filter the projects and tech stacks that you are interested in. 
+2. Explore the project and if you find any bugs, features, small refactoring for better code, open them in the issues section of the respective project 💡
+3. Every project contains the contributing,md that shows how to setup the project, feel free to open an issue when you are stuck while setting up.
+3. if an issue takes more than one day of coding then break them in to multiple issues 
+4. Try to be as clear as possible in the issues with screenshots and logs or how to reproduce the issue. also, mention in issues if you are working on it.
+5. Wait for mentors to approve the issues you submitted.
+6. Once approved 🔥, start working on your fork on the project and submit the pull request to development branch with issue number. one PR should solve only one issue.
+7. Most projects here will contain a CI that checks if your code has any errors and tests the code. if CI fails check the error log and work on it.
+8. Once the CI approves your code as success, mentors and other contributors will review your code, iterate your work based on review given,
+9.  if everything looks valid will merge your code, 🎉congrats you are an open source contributor ❤️ 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevUnderflow/devunderflow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Community Guidelines
+1. Be respectful and use please and thanks wherever applies.
+2. Upvote issues and PRs if you love their work. 
+3. If you are using any code from here, feel free to let us know we will be more happy for that. 
+4. if you have any project related or community suggestions feel free to drop an email to any of our members.
